@@ -1,0 +1,3 @@
+database credentials : 
+    username : harshitgupta422004
+    password : rUP6UiEniDpD0djn
