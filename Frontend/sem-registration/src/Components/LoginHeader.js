@@ -7,8 +7,9 @@ const LoginHeader = ({onLogout}) => {
     const handleLogOut = (e) =>{
         e.preventDefault();
         onLogout();
-        window.location.reload();
+        
         navigate("/")
+        window.location.reload();
     }
 
     return (
